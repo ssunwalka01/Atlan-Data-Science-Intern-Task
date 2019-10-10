@@ -40,3 +40,6 @@ Location for differnt zone were collected. Plese refer to the initial section of
 
 ## K Means
 In order to cluster different data points according to thier lables, K means was used.
+
+## DBSCAN
+The given problem statement was also solved using DBSCAN. Refer DBSCAN.ipynb for complete code. The clusters were also ploted on the map.
