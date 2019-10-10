@@ -35,3 +35,8 @@ Documentation around the methodology, analysis, and final results that you want 
 Script(s) and their documentation. (Bonus points for using Jupyter Notebook or GitHub ReadMe.)
 Visualizations. (Bonus points if you use interactive dashboards)
 
+## Data Collection
+Location for differnt zone were collected. Plese refer to the initial section of Final_submission jupyter notebook for more detials.
+
+## K Means
+In order to cluster different data points according to thier lables, K means was used.
